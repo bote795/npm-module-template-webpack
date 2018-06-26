@@ -1,3 +1,3 @@
 # npm-module-template-webpack
-got functionality from: 
+got `libary` example code from: 
 https://github.com/flexdinesh/npm-module-boilerplate

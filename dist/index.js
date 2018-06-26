@@ -104,7 +104,7 @@ return /******/ (function(modules) { // webpackBootstrap
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\n//# sourceURL=webpack://index/./lib/index.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nvar defaultAwesomeFunction = function defaultAwesomeFunction(name) {\n  var returnStr = \"I am the Default Awesome Function, fellow comrade! - \" + name;\n  return returnStr;\n};\n\nexports.default = defaultAwesomeFunction;\n\n//# sourceURL=webpack://index/./lib/index.js?");
 
 /***/ }),
 
